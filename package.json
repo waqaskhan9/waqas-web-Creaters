@@ -1,0 +1,14 @@
+{
+  "name": "waqas-web-design",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Waqas Web Design - dark luxury full-stack portfolio starter",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
